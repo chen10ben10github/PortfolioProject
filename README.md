@@ -1,8 +1,6 @@
+# SQL Data Exploration Project  
 
-# 📝 Data Analyst Portfolio Project: SQL Data Exploration <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="30" alt="SQL Icon" />
-
-
-## 🌍 Overview
+## <a href="https://www.microsoft.com/en-us/sql-server"> <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="30" alt="SQL Server Icon"/> </a>  Overview
 This project explores COVID-19 data, specifically focusing on deaths, vaccinations, and their relationship to population. The goal is to identify trends, correlations, and patterns in the data, such as the infection rates and vaccination progress across various locations. The analysis utilizes SQL queries to extract meaningful insights and inform decisions regarding public health measures.
 
 ## 📊 Data Sources
@@ -156,5 +154,5 @@ FROM PercentPopulationVaccinated;
 - **Vaccination Progress**: The progress of vaccinations can be tracked over time, helping identify regions lagging behind.
 - **Death Rates**: By comparing total deaths to total cases and population, we can identify areas with higher mortality rates.
 
-## ✅ Conclusion
+## ✅ Conclusion 
 This project demonstrates the ability to explore and analyze large datasets using SQL. By creating complex queries, temporary tables, views, and CTEs, we can extract valuable insights into the global impact of COVID-19 and vaccination efforts.

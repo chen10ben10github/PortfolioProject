@@ -1,6 +1,6 @@
 
-# 📝 Data Analyst Portfolio Project: SQL Data Exploration
-<img src="path/to/sql-icon.svg" alt="SQL" />
+# 📝 Data Analyst Portfolio Project: SQL Data Exploration <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="30" alt="SQL Icon" />
+
 
 ## 🌍 Overview
 This project explores COVID-19 data, specifically focusing on deaths, vaccinations, and their relationship to population. The goal is to identify trends, correlations, and patterns in the data, such as the infection rates and vaccination progress across various locations. The analysis utilizes SQL queries to extract meaningful insights and inform decisions regarding public health measures.
